@@ -1,7 +1,7 @@
 # Hi, I'm Israel 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I am a Full-stack Developer passionate about analysis and UI/UX design. I'm currently looking for new opportunities. Some technologies I enjoy working with include <ReactJS>, `NodeJS`, `Ruby`, `Rails`, `MongoDB`, `SQL Advanced`, `JAVA`, `JAVA Fx`.
+<img src="./israel-banner.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+I am a Full-stack Developer passionate about analysis and UI/UX design. I'm currently looking for new opportunities. Some technologies I enjoy working with include ReactJS, NodeJS, Ruby, Rails, MongoDB, SQL Advanced, JAVA, JAVA Fx.
 
 ## Let's get in touch 🌎: 
 
