@@ -1,6 +1,6 @@
 # Hi, I'm Israel 👋🏾 👩🏾‍💻
 
-<img src="./israel-banner.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="./israel-banner.jpg" alt=" banner image cover">
 
 - :computer: Currently studying Rails & SQL.<br>
 - :pencil2: Looking forward to improving my skills in UI/UX Design.<br>
@@ -10,8 +10,8 @@
 - :telephone: I'm open to offers and looking for remote opportunities.<br>
 
 ## <p align=center>:earth_americas: Find and contact me around the web:</p>
-- :raising_hand_man: Take a look at my personal [portfolio](https://chiztechnology.github.io/Israel-Portfolio/).
-- :mag_right: Check my LinkedIn [profile](https://www.linkedin.com/in/israel-chizungu-b70316125/).
+- :raising_hand_man: Take a look at my personal [portfolio](http://israelchizungu.com).
+- :mag_right: Check my LinkedIn [profile](https://www.linkedin.com/in/israelchizungu/).
 - :mailbox: Contact me via <a href="mailto:chizunguisrael@gmail.com">email</a>.
 
 ## <p align=center>:hammer_and_wrench: Languages and Tools:</p>
