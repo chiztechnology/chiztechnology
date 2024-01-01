@@ -2,7 +2,7 @@
 
 <img src="./israel-banner.jpg" alt=" banner image cover">
 
-- :computer: Currently studying Rails & SQL.<br>
+- :computer: Currently studying NestJS.<br>
 - :pencil2: Looking forward to improving my skills in UI/UX Design.<br>
 - :person_in_tuxedo: Seeking to improve my soft skills day after day.<br>
 - :eyes: Logic problems always get my attention.<br>
@@ -10,7 +10,7 @@
 - :telephone: I'm open to offers and looking for remote opportunities.<br>
 
 ## <p align=center>:earth_americas: Find and contact me around the web:</p>
-- :raising_hand_man: Take a look at my personal [portfolio](http://israelchizungu.com).
+- :raising_hand_man: Take a look at my personal [portfolio](https://israel-portfolio.onrender.com/).
 - :mag_right: Check my LinkedIn [profile](https://www.linkedin.com/in/israelchizungu/).
 - :mailbox: Contact me via <a href="mailto:chizunguisrael@gmail.com">email</a>.
 
